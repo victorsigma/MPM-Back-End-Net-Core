@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MOvNh/won8G7vlGgK3W6GBMbNy8RtEFfbKFFbEW8gz90B0iFX/JBcHkRYml8gOTv2j8zfLle8g8qzStKAzcHSQ==",
+  "dgSpecHash": "7S1fZlQFWVMUXHip6s4JLbyK8HZnoArKNgE02xhltkdfdHb8ATVmh1q41DS4YE0L2wRAbIhx5wfjc+SbDaxWKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\Projects\\Angular Projects\\MPM-Back-End\\MPM-Back-End\\MPM-Back-End.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\Projects\\Angular Projects\\MPM-Back-End-Alter\\MPM-Back-End-Net-Core\\MPM-Back-End\\MPM-Back-End.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
